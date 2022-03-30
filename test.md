@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Test Title"
 permalink: /test/
+---
 
 # 《將進酒》第0章
 
